@@ -1,5 +1,7 @@
-# EPAiV5-Session16 - Build a Dynamic Inventory System Using Nested Dictionaries
- 
+# EPAiV5-Session16 - Build a Dynamic Inventory System - Nested Dictionaries
+
+![Test Status](https://github.com/mHemaAP/EPAiV5-Session16/actions/workflows/python-app.yml/badge.svg)
+
 ## Introduction
 This project implements a dynamic inventory management system using Python dictionaries, where each category of products is represented by a nested dictionary. The system supports various operations such as adding items, updating existing ones, querying inventory details, and merging multiple inventories. It also handles the nuances of deep and shallow copying to manage the inventory structure efficiently.
 
@@ -98,9 +100,10 @@ print("Most Expensive Item:", expensive_item)
 
 ![localPC_test_results](localPC_test_results.JPG)
 
+
 #### Workflow Actions
 
-
+![gitActions_tests_passed](gitActions_tests_passed.JPG)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
